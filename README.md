@@ -17,7 +17,7 @@ Abrir [http://localhost:4200](http://localhost:4200) para ver os resultados no s
 
 <hr><br>
 <div align="center">
-    <img src="./assets/igniteShop.gif" alt="Ignite Shop (e-commerce de camisetas)" height="350">
+    <img src="./src/assets/gifs/memoteca.gif" alt="Aplicação Memoteca (mural de pensamento)" height="350">
 </div>
 
 <hr><br>
