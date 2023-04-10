@@ -2,24 +2,24 @@
   "pensamentos": [
     {
       "id": 1,
-      "conteudo": "Que bom que você veio",
-      "autoria": "Matheus",
+      "conteudo": "Que bom que você veio ",
+      "autoria": "Matheus B",
       "modelo": "modelo1"
     },
     {
       "id": 2,
-      "conteudo": "Estudante Angular",
+      "conteudo": "Estudante de Angular",
       "autoria": "Dev Vanguard",
       "modelo": "modelo2"
     },
     {
       "id": 3,
-      "conteudo": "Angular é o melhor",
+      "conteudo": "Angular é o Top",
       "autoria": "Matheus",
       "modelo": "modelo3"
     },
     {
-      "conteudo": "testando 1",
+      "conteudo": "testando",
       "autoria": "Matheus B",
       "modelo": "modelo2",
       "id": 4
