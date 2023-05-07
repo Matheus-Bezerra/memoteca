@@ -12,7 +12,7 @@
       "conteudo": "Estudante de Angular",
       "autoria": "Dev Vanguard",
       "modelo": "modelo2",
-      "favorito": true
+      "favorito": false
     },
     {
       "id": 3,
@@ -46,7 +46,7 @@
       "conteudo": "balneario",
       "autoria": "Matheus",
       "modelo": "modelo2",
-      "favorito": true,
+      "favorito": false,
       "id": 7
     }
   ]

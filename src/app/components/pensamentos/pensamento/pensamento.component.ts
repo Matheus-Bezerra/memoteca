@@ -9,6 +9,7 @@ import { PensamentoService } from '../pensamento.service';
 })
 export class PensamentoComponent {
   @Input() pensamento!: Pensamento
+  @Input() listaFavoritos!: Pensamento[]
 
   constructor(private _service: PensamentoService) {
 
@@ -29,6 +30,8 @@ export class PensamentoComponent {
   }
 
   atualizarFavoritos() {
-    this._service.mudarFavorito(this.pensamento).subscribe()
+    this._service.mudarFavorito(this.pensamento).subscribe(() => {
+      this.listaFavoritos.splice(this.listaFavoritos.indexOf(this.pensamento), 1)
+    })
   }
 }
