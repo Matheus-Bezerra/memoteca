@@ -26,7 +26,8 @@ export class CriarPensamentoComponent {
       autoria: ['', Validators.compose([
         Validators.required, Validators.minLength(3), nameValidator
       ])],
-      modelo: ["modelo1"]
+      modelo: ["modelo1"],
+      favorito: false
     })
 
   }

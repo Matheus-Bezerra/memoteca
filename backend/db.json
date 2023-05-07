@@ -4,42 +4,49 @@
       "id": 1,
       "conteudo": "Que bom que você veio ",
       "autoria": "Matheus B",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "id": 2,
       "conteudo": "Estudante de Angular",
       "autoria": "Dev Vanguard",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": true
     },
     {
       "id": 3,
       "conteudo": "Angular é o Top",
       "autoria": "Matheus",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
       "conteudo": "testando",
       "autoria": "Matheus B",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 4
     },
     {
       "conteudo": "Que a força esteja com agente",
       "autoria": "yoy",
       "modelo": "modelo1",
+      "favorito": true,
       "id": 5
     },
     {
       "conteudo": "mais um pensamento",
       "autoria": "Anonimo",
       "modelo": "modelo3",
+      "favorito": false,
       "id": 6
     },
     {
       "conteudo": "balneario",
       "autoria": "Matheus",
       "modelo": "modelo2",
+      "favorito": true,
       "id": 7
     }
   ]
